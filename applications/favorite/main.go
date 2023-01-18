@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("coming")
+	s := []int{1, 2, 3}
+	fmt.Println(s)
+
 }
